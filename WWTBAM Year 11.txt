@@ -1,0 +1,153 @@
+const questions = [
+
+{
+question:"What does the word Pentecost mean?",
+answers:["Resurrection","Fiftieth","Harvest","Apostle"],
+correct:1
+},
+
+{
+question:"Who preached to the crowds on the day of Pentecost?",
+answers:["Paul","Patrick","Peter","James"],
+correct:2
+},
+
+{
+question:"Which member of the Trinity descended upon the Apostles at Pentecost?",
+answers:[
+"God the Father",
+"Jesus",
+"The Holy Spirit",
+"Moses"
+],
+correct:2
+},
+
+{
+question:"How many days after Easter is Pentecost celebrated?",
+answers:["7","40","50","70"],
+correct:2
+},
+
+{
+question:"Which type of Church Government is used by the Catholic Church?",
+answers:[
+"Congregational",
+"Representative",
+"Episcopal",
+"Democratic"
+],
+correct:2
+},
+
+{
+question:"Which of these was NOT a sign of the Holy Spirit at Pentecost?",
+answers:[
+"Mighty Wind",
+"Tongues of Fire",
+"Speaking in Tongues",
+"Earthquake"
+],
+correct:3
+},
+
+{
+question:"Why did St Paul say spiritual gifts are given?",
+answers:[
+"To make Christians important",
+"To benefit everyone",
+"To make money",
+"To gain status"
+],
+correct:1
+},
+
+{
+question:"Which of these is a spiritual gift mentioned by St Paul?",
+answers:[
+"Wealth",
+"Wisdom",
+"Authority",
+"Popularity"
+],
+correct:1
+},
+
+{
+question:"St Paul compared the Church to which part of the human body?",
+answers:[
+"The Eye",
+"The Head",
+"The Body",
+"The Heart"
+],
+correct:2
+},
+
+{
+question:"Which is NOT one of the Characteristics of the Early Church?",
+answers:[
+"Prayer",
+"Sharing",
+"Pilgrimage",
+"Hymn Singing"
+],
+correct:2
+},
+
+{
+question:"Who are regarded as the direct successors of the Apostles?",
+answers:[
+"Priests",
+"Cardinals",
+"The College of Bishops",
+"Deacons"
+],
+correct:2
+},
+
+{
+question:"What is Papal Infallibility?",
+answers:[
+"The Pope cannot sin",
+"The Pope is always right",
+"The Pope is without error when teaching faith and morals",
+"The Pope cannot retire"
+],
+correct:2
+},
+
+{
+question:"Why is Pentecost called the Birthday of the Church?",
+answers:[
+"Jesus was born",
+"Church buildings were first built",
+"Disciples received the Holy Spirit and the Church began its mission",
+"Peter became Pope"
+],
+correct:2
+},
+
+{
+question:"Why does the Pope have a unique position of leadership?",
+answers:[
+"He lives in Rome",
+"He is elected by Cardinals",
+"He is the successor of St Peter",
+"He is the oldest bishop"
+],
+correct:2
+},
+
+{
+question:"Which statement best supports the argument that the Christian Church should be united?",
+answers:[
+"Different churches should stay separate",
+"All gifts come from the same Spirit and Christians form one body",
+"The churches disagree on doctrine",
+"Tradition is more important than unity"
+],
+correct:1
+}
+
+];
